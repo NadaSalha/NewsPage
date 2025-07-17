@@ -204,8 +204,8 @@ let newsItems = [
     description: "...",
     fullContent: "...",
     media: {
-      type: "image",
-      url: "https://images.unsplash.com/photo-1589396574527-08c3d5a4d67d?auto=format&fit=crop&w=600&q=80"
+      type: "live",
+      url: "https://www.youtube.com/live/YY1B0zue_cI?si=BA5Mv7PyAdoL3u2Q"
     },
     views: 1500,
     important: false,
